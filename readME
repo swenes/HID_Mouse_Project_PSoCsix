@@ -1,0 +1,32 @@
+TR--
+İlk olarak gömülü sistemler tarafında hiç bir bilgim olmamasından ve Arçelik A.Ş tarafından teslim aldığım kiti tanımak amacıyla staj süremin bir kısmını eğitime harcadığımı söyleyebilirim.
+Eğitimi bitirdikten sonra kitin modüllerini tek tek kullanmayı öğrendim.(Sensörler,buttonlar, ledler gibi..).
+Daha sonra kit ile bir bilgisayar faresi geliştirebileceğime karar verdim.
+Bunun icin HID (Human Interface Driver) protokollerini ve nasıl çalıştığını araştırdım.
+Daha sonra CapSense üzerinden slider’a gelen x ve y değerlerini çektim.
+Almış olduğum x ve y değerlerini USB kablosu üzerinden HID ile bilgisayarıma ilettim.
+Daha sonra ekranımdaki imlecin x ve y değerlerine göre pozisyon alması icin gerekli kodları yazdım.
+Butonlara basıldığında sol ve sağ click işlemleri icin gerekli kodları araştırdım.
+Bu kodları sol ve sağ butonlarıma entegre ettim.
+Daha sonra slider tek yönlü olduğu kit üzerindeki farklı bir butonu mod tuşu olarak kullanmayı düşündüm. Yani butona basıldığında imleç yön değiştirmeliydi. Örneğin sağ ve sola hareket ediyorken butona basıldığında yukarı aşağı hareket etmeye başlaması gibi.
+Gerekli işlemleri yapıp butona mod eventini entegre ettim.
+Daha sonra hangi modda olduğumuzu anlayabilmek icin x ve y koordinatlarına göre uygun ledler yaktım.
+Böylelikle istediğim sürede, istediğim özelliklerle projemi tamamladım.
+Kodlar main_cm4.c dosyasının içerisindedir.
+
+
+EN--
+First of all, I can say that I spent some of my internship time on training, since I have no knowledge of embedded systems and to get to know the kit I received from Arçelik A.Ş.
+After completing the training, I learned to use the modules of the kit one by one (sensors, buttons, leds..).
+I then decided that I could develop a computer mouse with the kit.
+For this, I researched HID (Human Interface Driver) protocols and how they work.
+Then I took the x and y values ​​that came to the slider via CapSense.
+I transferred the x and y values ​​I received to my computer with HID over the USB cable.
+Then I wrote the necessary codes to position the cursor on my screen according to the x and y values.
+I researched the necessary codes for left and right click operations when the buttons are pressed.
+I integrated these codes into my left and right buttons.
+Then I thought of using a different button on the kit, where the slider is one-way, as a mode button. That is, the cursor should change direction when the button is pressed. For example, when the button is pressed while moving left and right, it starts to move up and down.
+I made the necessary actions and integrated the mod event into the button.
+Then I turned on the appropriate LEDs according to the x and y coordinates to understand which mode we are in.
+Thus, I completed my project in the time I wanted, with the features I wanted.
+The codes are in the main_cm4.c file.
