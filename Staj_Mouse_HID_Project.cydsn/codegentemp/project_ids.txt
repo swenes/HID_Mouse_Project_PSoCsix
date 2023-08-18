@@ -1,0 +1,6 @@
+C:\Users\enes_\Documents\PSoC Creator\Intern_WorkSpace\Staj_Mouse_HID_Project.cydsn\Staj_Mouse_HID_Project.cyprj|e9f240af-42bd-4202-b388-b64b0d17dfcd
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|6ec4ecfe-3297-4ce8-baa6-ab0731e98716
+C:\Users\enes_\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|094e4e38-3314-4179-848b-8bc7b148d9c0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0772862c-234c-4214-aeeb-a2215000c403
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|1f94e326-3ae6-4e17-9cf6-2dca72744d51
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|bb391396-24e3-4d18-840e-0754d001c2c2
